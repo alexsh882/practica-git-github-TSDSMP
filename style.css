@@ -13,6 +13,16 @@ header {
 	padding: 20px;
 }
 
+header div {
+	display: flex;
+	align-items: center;
+}
+
+header div img {
+	height: 40px;
+	margin-right: 10px;
+}
+
 /* Estilos de la barra de navegación */
 nav {
 	background-color: #333;
